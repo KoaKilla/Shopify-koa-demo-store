@@ -1,0 +1,10 @@
+/* css added  by me (koa)  */
+
+.image-with-text__heading h1{
+  font-family: OCRA-Alternate !important;
+}
+
+.site-nav--has-dropdown:hover .site-nav__dropdown,
+.site-nav--has-dropdown:focus .site-nav__dropdown {
+  display: block;
+}
